@@ -20,7 +20,7 @@ Amnesteys American Suburbs Map
 
 ## 📝 Version
 
-V1.0.0
+V1.1.0
 
 ---
 
